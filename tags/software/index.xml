@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>software on jyotir</title>
-    <link>http://example.org/tags/software/</link>
+    <link>http://jyotiradityatiwary.github.io/tags/software/</link>
     <description>Recent content in software on jyotir</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 03 Dec 2022 19:58:38 +0530</lastBuildDate><atom:link href="http://example.org/tags/software/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 03 Dec 2022 19:58:38 +0530</lastBuildDate><atom:link href="http://jyotiradityatiwary.github.io/tags/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Why Fedora</title>
-      <link>http://example.org/posts/why-fedora/</link>
+      <link>http://jyotiradityatiwary.github.io/posts/why-fedora/</link>
       <pubDate>Sat, 03 Dec 2022 19:58:38 +0530</pubDate>
       
-      <guid>http://example.org/posts/why-fedora/</guid>
+      <guid>http://jyotiradityatiwary.github.io/posts/why-fedora/</guid>
       <description>Fedora vs Windows  Link to heading    Reliable disk encryption My laptop which shipped with Windows 10 pre-installed did not encrypt the storage (neither HDD nor SSD). In settings, the option was greyed out with no explanation. Even after upgrade to windows 11 it remained so. On reformatting the disk and clean installing Windows 10 again, there was no such option to encrypt storage during partitioning and again the option in settings post-install was greyed out.</description>
     </item>
     
